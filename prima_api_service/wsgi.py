@@ -1,5 +1,5 @@
 """
-WSGI config for game_api_service project.
+WSGI config for prima_api_service project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'game_api_service.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'prima_api_service.settings')
 
 application = get_wsgi_application()
