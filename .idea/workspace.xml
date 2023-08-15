@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52922132-ab7f-4edd-ad17-a074591b470d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/game_api_service.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_api_service/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_api_service/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_api_service/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_api_service/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_api_service/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692083134986</updated>
-      <workItem from="1692083136122" duration="2467000" />
+      <workItem from="1692083136122" duration="18283000" />
     </task>
     <servers />
   </component>
