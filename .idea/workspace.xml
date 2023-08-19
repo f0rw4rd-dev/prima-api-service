@@ -5,37 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52922132-ab7f-4edd-ad17-a074591b470d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/players/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/players/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cosmetics/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cosmetics/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cosmetics/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cosmetics/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cosmetics/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cosmetics/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cosmetics/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extensions/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extensions/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extensions/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extensions/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extensions/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extensions/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extensions/views.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/friends/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/friends/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_items/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_items/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_items/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_items/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_items/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_items/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_items/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gift_codes/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/gift_codes/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/player_stats/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/player_stats/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/players/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/players/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/players/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prima_api_service/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/prima_api_service/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prima_api_service/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/prima_api_service/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -98,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692083134986</updated>
       <workItem from="1692083136122" duration="18283000" />
-      <workItem from="1692457441447" duration="4308000" />
+      <workItem from="1692457441447" duration="6223000" />
     </task>
     <servers />
   </component>

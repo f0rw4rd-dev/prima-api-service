@@ -18,3 +18,6 @@ class Player(models.Model):
     first_join_time = models.DateTimeField(verbose_name=_('First join time'))
     last_join_time = models.DateTimeField(verbose_name=_('Last join time'))
     total_hours = models.PositiveIntegerField(verbose_name=_('Total hours'))
+
+    def __str__(self):
+        return self.personal_key
