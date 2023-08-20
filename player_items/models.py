@@ -3,7 +3,7 @@ from django.utils.translation import gettext as _
 
 
 # Create your models here.
-class PlayerItem:
+class PlayerItem(models.Model):
     class Meta:
         unique_together = ('player', 'item')
 

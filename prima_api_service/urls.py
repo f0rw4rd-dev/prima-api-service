@@ -20,5 +20,11 @@ from django.urls import path, include
 urlpatterns = [
     # path('admin/', admin.site.urls),
     path('api-auth/', include('rest_framework.urls')),
-    path('players/', include('players.urls'))
+    path('players/', include('players.urls')),
+    path('players/stats/', include('player_stats.urls')),
+    path('players/items/', include('player_items.urls')),
+    path('players/expansions/', include('player_expansions.urls')),
+    path('players/cosmetics/', include('player_cosmetics.urls')),
+    path('gift-codes/', include('gift_codes.urls')),
+    path('friends/', include('friends.urls')),
 ]
