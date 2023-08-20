@@ -14,7 +14,9 @@ class Player(models.Model):
         __empty__ = _('(Unknown)')
 
     personal_key = models.CharField(max_length=9, unique=True, verbose_name=_('Personal key'))
+    machine_key = models.CharField(max_length=256, unique=True, verbose_name=_('Machine key'))
     platform = models.IntegerField(choices=PlatformEnum.choices, verbose_name=_('Platform'))
+    platform_uid = models.CharField(max_length=128, unique=True, verbose_name=_('Platform uid'))
     first_join_time = models.DateTimeField(verbose_name=_('First join time'))
     last_join_time = models.DateTimeField(verbose_name=_('Last join time'))
     total_hours = models.PositiveIntegerField(verbose_name=_('Total hours'))
