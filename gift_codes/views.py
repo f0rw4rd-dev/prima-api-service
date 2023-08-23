@@ -1,7 +1,6 @@
 from .models import GiftCode, GiftCodeUsage
 from .serializers import GiftCodeSerializer, GiftCodeUsageSerializer
-from rest_framework import mixins
-from rest_framework import generics
+from rest_framework import mixins, generics
 
 
 # Create your views here.
@@ -31,8 +30,8 @@ class GiftCodeDetail(mixins.RetrieveModelMixin,
     def put(self, request, *args, **kwargs):
         return self.update(request, *args, **kwargs)
 
-    # def delete(self, request, *args, **kwargs):
-    #     return self.destroy(request, *args, **kwargs)
+    def delete(self, request, *args, **kwargs):
+        return self.destroy(request, *args, **kwargs)
 
 
 class GiftCodeUsageList(mixins.ListModelMixin,
@@ -61,5 +60,5 @@ class GiftCodeUsageDetail(mixins.RetrieveModelMixin,
     def put(self, request, *args, **kwargs):
         return self.update(request, *args, **kwargs)
 
-    # def delete(self, request, *args, **kwargs):
-    #     return self.destroy(request, *args, **kwargs)
+    def delete(self, request, *args, **kwargs):
+        return self.destroy(request, *args, **kwargs)

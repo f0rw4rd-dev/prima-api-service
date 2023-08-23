@@ -1,7 +1,6 @@
 from .models import Player
 from .serializers import PlayerSerializer
-from rest_framework import mixins
-from rest_framework import generics
+from rest_framework import mixins, generics
 
 
 # Create your views here.
@@ -31,5 +30,5 @@ class PlayerDetail(mixins.RetrieveModelMixin,
     def put(self, request, *args, **kwargs):
         return self.update(request, *args, **kwargs)
 
-    # def delete(self, request, *args, **kwargs):
-    #     return self.destroy(request, *args, **kwargs)
+    def delete(self, request, *args, **kwargs):
+        return self.destroy(request, *args, **kwargs)

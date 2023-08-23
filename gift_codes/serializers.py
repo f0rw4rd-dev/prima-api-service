@@ -5,7 +5,7 @@ from rest_framework import serializers
 class GiftCodeSerializer(serializers.ModelSerializer):
     class Meta:
         model = GiftCode
-        fields = ('hashed_code', 'activation_count', 'category', 'gift', 'quantity')
+        fields = ('code', 'activation_count', 'category', 'gift', 'quantity')
 
 
 class GiftCodeUsageSerializer(serializers.ModelSerializer):

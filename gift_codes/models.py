@@ -13,7 +13,7 @@ class GiftCode(models.Model):
 
         __empty__ = _('(Unknown)')
 
-    hashed_code = models.CharField(max_length=256, unique=True, verbose_name=_('Hashed code'))
+    code = models.CharField(max_length=256, unique=True, verbose_name=_('Code'))
     activation_count = models.PositiveIntegerField(verbose_name=_('Activation count'))
     category = models.IntegerField(choices=GiftCategoryEnum.choices, verbose_name=_('Category'))
     gift = models.IntegerField(verbose_name=_('Gift'))

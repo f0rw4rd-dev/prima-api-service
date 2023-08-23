@@ -10,6 +10,9 @@ class PlayerStat(models.Model):
     class PlayerStatEnum(models.IntegerChoices):
         MONEY = 1, _('Money')
         LEVEL = 2, _('Level')
+        FIRST_JOIN_TIME = 3, _('First join time')
+        LAST_JOIN_TIME = 4, _('Last join time')
+        TOTAL_HOURS = 5, _('Total hours')
 
         __empty__ = _('(Unknown)')
 
