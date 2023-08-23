@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52922132-ab7f-4edd-ad17-a074591b470d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/friends/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/friends/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/friends/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/friends/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gift_codes/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/gift_codes/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gift_codes/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/gift_codes/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gift_codes/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/gift_codes/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gift_codes/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/gift_codes/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/player_cosmetics/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/player_cosmetics/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/player_cosmetics/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/player_cosmetics/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/player_expansions/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/player_expansions/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/player_expansions/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/player_expansions/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/player_items/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/player_items/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/player_items/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/player_items/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/player_stats/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/player_stats/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/player_stats/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/player_stats/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/player_stats/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/player_stats/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/players/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/players/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/players/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/players/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/players/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/players/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/players/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/players/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="52922132-ab7f-4edd-ad17-a074591b470d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +80,7 @@
       <workItem from="1692083136122" duration="18283000" />
       <workItem from="1692457441447" duration="6223000" />
       <workItem from="1692512965614" duration="7569000" />
-      <workItem from="1692796561057" duration="7024000" />
+      <workItem from="1692796561057" duration="7566000" />
     </task>
     <servers />
   </component>

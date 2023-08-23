@@ -1,8 +1,11 @@
-Demo REST API service for the game.
 
-Frameworks used: Django, Django REST.
+# Prima API Service
 
-The service includes the following 8 database tables:
+**Demo REST API service for the game**
+
+**Frameworks used**: Django, Django REST
+
+**The service includes the following 8 database tables**:
 1. Players.
 2. PlayerStats.
 3. PlayerItems.
